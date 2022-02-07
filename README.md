@@ -1,2 +1,2 @@
-# Patry-Tutorial
-Pastry Tutorial and Testing
+# Pastry-Tutorial
+Pastry Tutorial and Experimentation
